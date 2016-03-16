@@ -35,11 +35,11 @@
     </p>
     <h3>Teredo</h3>
     <p>
-        <span class="info"><?php print ($l->t ('Teredo is one of the simplest way to obtain IPv6 address. This address can change.')); ?></span>
+        <span class="info"><?php print ($l->t ('Teredo is one of the simplest way to obtain an IPv6 address. This address can change.')); ?></span>
     </p>
     <p>
         <div id="teredo-loading" class="icon-loading-small inlineblock"></div>
         <input type="checkbox" name="enable_teredo" id="TeredoEnable" class="checkbox" />
-        <label for="TeredoEnable">Allow box to get IPv6 via Teredo</label><br/>
+        <label for="TeredoEnable">Allow box to fetch an IPv6 address via Teredo</label><br/>
     </p>
 </form>
