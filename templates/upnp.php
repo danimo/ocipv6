@@ -24,7 +24,7 @@
 <form id="ocipv6upnp" class="section">
     <h2>uPnP</h2>
     <p>
-        <span class="info"><?php print ($l->t('uPnP is a protocol that allows devices in your local network to ask your router to forward a public port to them. If your router have a public IPv4 and supports uPnP, you should be able to get your ownCloud publically avialable this way.')); ?></span>
+        <span class="info"><?php print ($l->t('uPnP is a protocol that allows devices in your local network to ask your router to forward a public port to them. If your router has a public IPv4 and supports uPnP, you should be able to get your ownCloud publically avialable this way.')); ?></span>
     <h3 class="info">Local addresses</h3>
     <p id="ipv4addresses">
         <div id="ipv4-loading" class="icon-loading-small inlineblock"></div>
